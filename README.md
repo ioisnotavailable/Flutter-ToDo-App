@@ -1,4 +1,4 @@
-#BİR TODO UYGULAMASI
+BİR TODO UYGULAMASI
 ====================
 
 
