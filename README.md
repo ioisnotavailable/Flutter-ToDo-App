@@ -15,6 +15,7 @@ BİR TODO UYGULAMASI
 
 * Sqflite
 
+
 **EKRAN GÖRÜNTÜLERİ**
 ---------------------
 
