@@ -10,6 +10,11 @@ BİR TODO UYGULAMASI
 * Ekleme, silme, güncelleme işlemleri hızlı ve kolaydır.
 * Bitmiş etkinlikler listelenen etkinliklerin en altına alınır.
 
+**KULLANDIĞIM PAKETLER**
+------------------------
+
+* Sqflite
+
 **EKRAN GÖRÜNTÜLERİ**
 ---------------------
 
