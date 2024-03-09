@@ -2,7 +2,7 @@
 ====================
 
 
-**ÖNEMLİ ÖZELLKİLER**
+**ÖNEMLİ ÖZELLİKİLER**
 ----------------------
 
 * Flutter SDK'sı ile geliştirilmiştir.
