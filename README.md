@@ -18,7 +18,7 @@ BİR TODO UYGULAMASI
 
 **EKRAN GÖRÜNTÜLERİ**
 ---------------------
-| Screen                	 |shots                   |
+| Screenshots                	 |                   |
 |------------------------|----------------------- 	|
 | ![](https://github.com/ioisnotavalible/Flutter-ToDo-App/assets/162783393/4de573d4-47be-465d-bc47-bfb7122bb223) 	| ![](https://github.com/ioisnotavalible/Flutter-ToDo-App/assets/162783393/b82c9a1d-8273-491d-9760-09a96558657a) 	|
 | ![](https://github.com/ioisnotavalible/Flutter-ToDo-App/assets/162783393/103ac89c-7442-4b86-94ae-627addd0dda9) 	| ![](https://github.com/ioisnotavalible/Flutter-ToDo-App/assets/162783393/40d17714-5e65-412e-b4f3-3695fd0fed1c) 	|
